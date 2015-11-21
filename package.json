@@ -1,0 +1,21 @@
+{
+  "name": "framervr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Feldstein <msfeldstein@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-fit": "^1.5.0",
+    "gl-context": "^0.1.1",
+    "gl-geometry": "^1.2.0",
+    "gl-mat4": "^1.1.4",
+    "gl-shader": "^4.0.6",
+    "gl-texture2d": "^2.0.10",
+    "orbit-camera": "^1.0.0",
+    "primitive-sphere": "^2.0.0"
+  }
+}
